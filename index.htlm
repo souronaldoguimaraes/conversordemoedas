@@ -7,6 +7,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <title>Imersão Alura</title>
     <link href = "ttps://github.com/souronaldoguimaraes/conversordemoedas/blob/main/style.css" rel = "stylesheet" />
+    <script src = "https://github.com/souronaldoguimaraes/conversordemoedas/blob/main/script.js"></script>
     
 </head>
 
